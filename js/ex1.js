@@ -23,4 +23,4 @@ function calculate(num1, math_op, num2) {
     }
     return result;
 };
-console.log(calculate(result));
+console.log(calculate(num1, math_op, num2));
